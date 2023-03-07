@@ -2,7 +2,7 @@ class Alphabatetriangle
 {
  public static void main(String args[])
  {
- int n=5;char start=65;
+ int n=5;char start='A';
  for(int i=1;i<=n;i++)
  {
     //char start='A';
