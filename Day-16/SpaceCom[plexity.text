@@ -1,0 +1,10 @@
+Space complexity:
+                 The total amount of memory space used by an algorithm,including the space of input values for execution.
+
+Constant SpaceComplexity O(1):
+                         Example int n=100;
+                   In the given example  the unteger takes the 4 bytes of memory,so the space complexity will be constant.
+Linear SpaceComplexity O(n):
+                        Example int arr[]=new int[n];
+                    In the given example it takes 4*n bytes of memory as we remove the constant 4, the space complexity will be O(n).                      
+
